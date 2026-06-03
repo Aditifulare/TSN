@@ -2,7 +2,7 @@
 
 ## Overview
 This dashboard provides insights into lead quality, business performance, website adoption, contactability, and geographic distribution of leads.
-
+![alt text](TSN.PNG)
 ---
 
 ## Filters
